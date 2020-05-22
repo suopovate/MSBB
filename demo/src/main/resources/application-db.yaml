@@ -1,0 +1,15 @@
+##################################### common config : ####################################
+#spring:
+#  datasource:
+#    username: root
+#    password: 123321qaz..
+#    url: jdbc:mysql://47.107.56.246:3306/demo?characterEncoding=utf8&useSSL=true
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    type: com.zaxxer.hikari.HikariDataSource
+#  security:
+#    user:
+#      name: root
+#      password: 123321qaz..
+#mybatis-plus:
+#  # 支持统配符 * 或者 ; 分割
+#  typeEnumsPackage: com.msbb.demo.entity.enums
